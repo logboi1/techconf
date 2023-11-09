@@ -1,0 +1,16 @@
+.login-background {
+    background-image: url('../../assets/image/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.login-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    // text-align: center;
+}
